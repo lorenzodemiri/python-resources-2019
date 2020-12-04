@@ -1,3 +1,12 @@
+# Python Resources used this week for python
+
+Resources for learning python: 
+Python Documentation --> https://www.python.org/doc/
+
+Interesting Python Projects --> https://www.twilio.com/blog/tag/python
+
+The O'Reilly book --> http://greenteapress.com/thinkpython/html/index.html
+
 # Python-Resources-2019
 Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
